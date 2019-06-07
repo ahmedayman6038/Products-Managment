@@ -1,0 +1,125 @@
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\Products Managment.exe.config
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\Products Managment.exe.manifest
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\Products Managment.application
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\Products Managment.exe
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\Products Managment.pdb
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\FlashControlV71.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\stdole.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_Prod_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_User.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Backup_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Categories_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Configuration_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Customer_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Cust_List_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Login_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Main_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Orders_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Order_List_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Img_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_List_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Manage_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Restore_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.User_List_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.RPT.View_Report_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.exe.manifest
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.application
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.exe
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.pdb
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products Managment.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Startup_Form.resources
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\MetroFramework.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\MetroFramework.Design.dll
+C:\Users\ahmed\Desktop\Products Managment\Products Managment\bin\Debug\MetroFramework.Fonts.dll
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products Managment.csprojResolveAssemblyReference.cache
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_Prod_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_User.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Backup_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Categories_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Configuration_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Customer_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Cust_List_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Login_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Main_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Orders_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Order_List_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Img_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_List_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Manage_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Restore_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Startup_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.User_List_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.Properties.Resources.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products_Managment.RPT.View_Report_Form.resources
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products Managment.csproj.GenerateResource.Cache
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products Managment.exe
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products Managment.pdb
+E:\Projects\Products Managment\Products Managment\obj\Debug\Products Managment.csprojAssemblyReference.cache
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.csprojAssemblyReference.cache
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_Prod_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Add_New_User.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Backup_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Categories_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Configuration_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Customer_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Cust_List_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Login_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Main_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Orders_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Order_List_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Img_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_List_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Prod_Manage_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Restore_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.Startup_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.PL.User_List_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.Properties.Resources.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products_Managment.RPT.View_Report_Form.resources
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.csproj.GenerateResource.cache
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.exe
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.pdb
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\Products Managment.exe.config
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\Products Managment.exe.manifest
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\Products Managment.application
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\Products Managment.exe
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\Products Managment.pdb
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\MetroFramework.Design.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\MetroFramework.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\MetroFramework.Fonts.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\ShockwaveFlashObjects.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\DotNetProjects\Products Managment\Products Managment\bin\Debug\stdole.dll
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.csproj.CoreCompileInputs.cache
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.exe.manifest
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.application
+E:\DotNetProjects\Products Managment\Products Managment\obj\Debug\Products Managment.csproj.CopyComplete
